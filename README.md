@@ -2,7 +2,7 @@
 ### NAME: JEEVITH A
 ### ROLL NO: 212223240059
 ### DEPARTMENT: AIML
-### DATE: 20/05/2025
+### DATE: 13/04/2025
 
 ### AIM
 interface the DHT11 digital temperature and humidity sensor with a Raspberry Pi development board and display real-time data.
